@@ -172,3 +172,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+.vs/CurePlease/v15/Server/sqlite3/db.lock
+.vs/CurePlease/v15/Server/sqlite3/storage.ide
+.vs/CurePlease/v15/Server/sqlite3/storage.ide-shm
+.vs/CurePlease/v15/Server/sqlite3/storage.ide-wal
+obj/x86/Debug/CurePlease.csproj.GenerateResource.cache
