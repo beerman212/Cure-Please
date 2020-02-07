@@ -566,7 +566,7 @@ namespace CurePlease
             this.player5priority.Location = new System.Drawing.Point(29, 192);
             this.player5priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player5priority.Name = "player5priority";
-            this.player5priority.Size = new System.Drawing.Size(15, 14);
+            this.player5priority.Size = new System.Drawing.Size(18, 17);
             this.player5priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player5priority, "Check to Enable Player Priority");
             this.player5priority.UseVisualStyleBackColor = true;
@@ -579,7 +579,7 @@ namespace CurePlease
             this.player5enabled.Location = new System.Drawing.Point(7, 192);
             this.player5enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player5enabled.Name = "player5enabled";
-            this.player5enabled.Size = new System.Drawing.Size(15, 14);
+            this.player5enabled.Size = new System.Drawing.Size(18, 17);
             this.player5enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player5enabled, "Check to enable actions on this player.");
             this.player5enabled.UseVisualStyleBackColor = true;
@@ -590,7 +590,7 @@ namespace CurePlease
             this.player4priority.Location = new System.Drawing.Point(29, 156);
             this.player4priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player4priority.Name = "player4priority";
-            this.player4priority.Size = new System.Drawing.Size(15, 14);
+            this.player4priority.Size = new System.Drawing.Size(18, 17);
             this.player4priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player4priority, "Check to Enable Player Priority");
             this.player4priority.UseVisualStyleBackColor = true;
@@ -603,7 +603,7 @@ namespace CurePlease
             this.player4enabled.Location = new System.Drawing.Point(7, 156);
             this.player4enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player4enabled.Name = "player4enabled";
-            this.player4enabled.Size = new System.Drawing.Size(15, 14);
+            this.player4enabled.Size = new System.Drawing.Size(18, 17);
             this.player4enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player4enabled, "Check to enable actions on this player.");
             this.player4enabled.UseVisualStyleBackColor = true;
@@ -614,7 +614,7 @@ namespace CurePlease
             this.player3priority.Location = new System.Drawing.Point(29, 120);
             this.player3priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player3priority.Name = "player3priority";
-            this.player3priority.Size = new System.Drawing.Size(15, 14);
+            this.player3priority.Size = new System.Drawing.Size(18, 17);
             this.player3priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player3priority, "Check to Enable Player Priority");
             this.player3priority.UseVisualStyleBackColor = true;
@@ -627,7 +627,7 @@ namespace CurePlease
             this.player3enabled.Location = new System.Drawing.Point(7, 120);
             this.player3enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player3enabled.Name = "player3enabled";
-            this.player3enabled.Size = new System.Drawing.Size(15, 14);
+            this.player3enabled.Size = new System.Drawing.Size(18, 17);
             this.player3enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player3enabled, "Check to enable actions on this player.");
             this.player3enabled.UseVisualStyleBackColor = true;
@@ -638,7 +638,7 @@ namespace CurePlease
             this.player2priority.Location = new System.Drawing.Point(29, 84);
             this.player2priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player2priority.Name = "player2priority";
-            this.player2priority.Size = new System.Drawing.Size(15, 14);
+            this.player2priority.Size = new System.Drawing.Size(18, 17);
             this.player2priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player2priority, "Check to Enable Player Priority");
             this.player2priority.UseVisualStyleBackColor = true;
@@ -651,7 +651,7 @@ namespace CurePlease
             this.player2enabled.Location = new System.Drawing.Point(7, 84);
             this.player2enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player2enabled.Name = "player2enabled";
-            this.player2enabled.Size = new System.Drawing.Size(15, 14);
+            this.player2enabled.Size = new System.Drawing.Size(18, 17);
             this.player2enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player2enabled, "Check to enable actions on this player.");
             this.player2enabled.UseVisualStyleBackColor = true;
@@ -662,7 +662,7 @@ namespace CurePlease
             this.player1priority.Location = new System.Drawing.Point(29, 49);
             this.player1priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player1priority.Name = "player1priority";
-            this.player1priority.Size = new System.Drawing.Size(15, 14);
+            this.player1priority.Size = new System.Drawing.Size(18, 17);
             this.player1priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player1priority, "Check to Enable Player Priority");
             this.player1priority.UseVisualStyleBackColor = true;
@@ -675,7 +675,7 @@ namespace CurePlease
             this.player1enabled.Location = new System.Drawing.Point(7, 49);
             this.player1enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player1enabled.Name = "player1enabled";
-            this.player1enabled.Size = new System.Drawing.Size(15, 14);
+            this.player1enabled.Size = new System.Drawing.Size(18, 17);
             this.player1enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player1enabled, "Check to enable actions on this player.");
             this.player1enabled.UseVisualStyleBackColor = true;
@@ -686,7 +686,7 @@ namespace CurePlease
             this.player0priority.Location = new System.Drawing.Point(29, 14);
             this.player0priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player0priority.Name = "player0priority";
-            this.player0priority.Size = new System.Drawing.Size(15, 14);
+            this.player0priority.Size = new System.Drawing.Size(18, 17);
             this.player0priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player0priority, "Check to Enable Player Priority");
             this.player0priority.UseVisualStyleBackColor = true;
@@ -699,7 +699,7 @@ namespace CurePlease
             this.player0enabled.Location = new System.Drawing.Point(7, 14);
             this.player0enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player0enabled.Name = "player0enabled";
-            this.player0enabled.Size = new System.Drawing.Size(15, 14);
+            this.player0enabled.Size = new System.Drawing.Size(18, 17);
             this.player0enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player0enabled, "Check to enable actions on this player.");
             this.player0enabled.UseVisualStyleBackColor = true;
@@ -712,7 +712,7 @@ namespace CurePlease
             this.player5.Location = new System.Drawing.Point(46, 192);
             this.player5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player5.Name = "player5";
-            this.player5.Size = new System.Drawing.Size(45, 13);
+            this.player5.Size = new System.Drawing.Size(56, 17);
             this.player5.TabIndex = 1;
             this.player5.Text = "Inactive";
             // 
@@ -724,7 +724,7 @@ namespace CurePlease
             this.player4.Location = new System.Drawing.Point(46, 156);
             this.player4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player4.Name = "player4";
-            this.player4.Size = new System.Drawing.Size(45, 13);
+            this.player4.Size = new System.Drawing.Size(56, 17);
             this.player4.TabIndex = 1;
             this.player4.Text = "Inactive";
             // 
@@ -736,7 +736,7 @@ namespace CurePlease
             this.player3.Location = new System.Drawing.Point(46, 120);
             this.player3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player3.Name = "player3";
-            this.player3.Size = new System.Drawing.Size(45, 13);
+            this.player3.Size = new System.Drawing.Size(56, 17);
             this.player3.TabIndex = 1;
             this.player3.Text = "Inactive";
             // 
@@ -748,7 +748,7 @@ namespace CurePlease
             this.player2.Location = new System.Drawing.Point(46, 84);
             this.player2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player2.Name = "player2";
-            this.player2.Size = new System.Drawing.Size(45, 13);
+            this.player2.Size = new System.Drawing.Size(56, 17);
             this.player2.TabIndex = 1;
             this.player2.Text = "Inactive";
             // 
@@ -760,7 +760,7 @@ namespace CurePlease
             this.player1.Location = new System.Drawing.Point(46, 49);
             this.player1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player1.Name = "player1";
-            this.player1.Size = new System.Drawing.Size(45, 13);
+            this.player1.Size = new System.Drawing.Size(56, 17);
             this.player1.TabIndex = 1;
             this.player1.Text = "Inactive";
             // 
@@ -772,12 +772,13 @@ namespace CurePlease
             this.player0.Location = new System.Drawing.Point(46, 14);
             this.player0.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player0.Name = "player0";
-            this.player0.Size = new System.Drawing.Size(45, 13);
+            this.player0.Size = new System.Drawing.Size(56, 17);
             this.player0.TabIndex = 1;
             this.player0.Text = "Inactive";
             // 
             // playerOptions
             // 
+            this.playerOptions.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.playerOptions.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.followToolStripMenuItem,
             this.stopfollowToolStripMenuItem,
@@ -799,64 +800,64 @@ namespace CurePlease
             this.enableDebuffRemovalToolStripMenuItem,
             this.toolStripSeperator13});
             this.playerOptions.Name = "player0rightclick";
-            this.playerOptions.Size = new System.Drawing.Size(226, 342);
+            this.playerOptions.Size = new System.Drawing.Size(271, 370);
             // 
             // followToolStripMenuItem
             // 
             this.followToolStripMenuItem.Name = "followToolStripMenuItem";
-            this.followToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.followToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.followToolStripMenuItem.Text = "/follow";
             this.followToolStripMenuItem.Click += new System.EventHandler(this.followToolStripMenuItem_Click);
             // 
             // stopfollowToolStripMenuItem
             // 
             this.stopfollowToolStripMenuItem.Name = "stopfollowToolStripMenuItem";
-            this.stopfollowToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.stopfollowToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.stopfollowToolStripMenuItem.Text = "Cancel /follow";
             this.stopfollowToolStripMenuItem.Click += new System.EventHandler(this.stopfollowToolStripMenuItem_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(222, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(267, 6);
             // 
             // EntrustTargetToolStripMenuItem
             // 
             this.EntrustTargetToolStripMenuItem.Name = "EntrustTargetToolStripMenuItem";
-            this.EntrustTargetToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.EntrustTargetToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.EntrustTargetToolStripMenuItem.Text = "Make Entrusted Target";
             this.EntrustTargetToolStripMenuItem.Click += new System.EventHandler(this.EntrustTargetToolStripMenuItem_Click);
             // 
             // GeoTargetToolStripMenuItem
             // 
             this.GeoTargetToolStripMenuItem.Name = "GeoTargetToolStripMenuItem";
-            this.GeoTargetToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.GeoTargetToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.GeoTargetToolStripMenuItem.Text = "Make GEO-Spell Target";
             this.GeoTargetToolStripMenuItem.Click += new System.EventHandler(this.GeoTargetToolStripMenuItem_Click);
             // 
             // DevotionTargetToolStripMenuItem
             // 
             this.DevotionTargetToolStripMenuItem.Name = "DevotionTargetToolStripMenuItem";
-            this.DevotionTargetToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.DevotionTargetToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.DevotionTargetToolStripMenuItem.Text = "Make Devotion Target";
             this.DevotionTargetToolStripMenuItem.Click += new System.EventHandler(this.DevotionTargetToolStripMenuItem_Click);
             // 
             // HateEstablisherToolStripMenuItem
             // 
             this.HateEstablisherToolStripMenuItem.Name = "HateEstablisherToolStripMenuItem";
-            this.HateEstablisherToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.HateEstablisherToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.HateEstablisherToolStripMenuItem.Text = "Make Hate Establisher Target";
             this.HateEstablisherToolStripMenuItem.Click += new System.EventHandler(this.HateEstablisherToolStripMenuItem_Click);
             // 
             // toolStripSeparator7
             // 
             this.toolStripSeparator7.Name = "toolStripSeparator7";
-            this.toolStripSeparator7.Size = new System.Drawing.Size(222, 6);
+            this.toolStripSeparator7.Size = new System.Drawing.Size(267, 6);
             // 
             // autoHasteToolStripMenuItem
             // 
             this.autoHasteToolStripMenuItem.Name = "autoHasteToolStripMenuItem";
-            this.autoHasteToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoHasteToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoHasteToolStripMenuItem.Text = "Auto Haste";
             this.autoHasteToolStripMenuItem.ToolTipText = "Auto Haste (Default 3 minutes)";
             this.autoHasteToolStripMenuItem.Click += new System.EventHandler(this.autoHasteToolStripMenuItem_Click);
@@ -864,7 +865,7 @@ namespace CurePlease
             // autoHasteIIToolStripMenuItem
             // 
             this.autoHasteIIToolStripMenuItem.Name = "autoHasteIIToolStripMenuItem";
-            this.autoHasteIIToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoHasteIIToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoHasteIIToolStripMenuItem.Text = "Auto Haste II";
             this.autoHasteIIToolStripMenuItem.ToolTipText = "Auto Haste II (Default 3 minutes)";
             this.autoHasteIIToolStripMenuItem.Click += new System.EventHandler(this.autoHasteIIToolStripMenuItem_Click);
@@ -872,7 +873,7 @@ namespace CurePlease
             // autoAdloquiumToolStripMenuItem
             // 
             this.autoAdloquiumToolStripMenuItem.Name = "autoAdloquiumToolStripMenuItem";
-            this.autoAdloquiumToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoAdloquiumToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoAdloquiumToolStripMenuItem.Text = "Auto Adloquium";
             this.autoAdloquiumToolStripMenuItem.ToolTipText = "Auto Adloquium (Default 3 minutes)";
             this.autoAdloquiumToolStripMenuItem.Click += new System.EventHandler(this.autoAdloquiumToolStripMenuItem_Click);
@@ -880,7 +881,7 @@ namespace CurePlease
             // autoFlurryToolStripMenuItem
             // 
             this.autoFlurryToolStripMenuItem.Name = "autoFlurryToolStripMenuItem";
-            this.autoFlurryToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoFlurryToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoFlurryToolStripMenuItem.Text = "Auto Flurry";
             this.autoFlurryToolStripMenuItem.ToolTipText = "Auto Flurry (Default 3 minutes)";
             this.autoFlurryToolStripMenuItem.Click += new System.EventHandler(this.autoFlurryToolStripMenuItem_Click);
@@ -888,7 +889,7 @@ namespace CurePlease
             // autoFlurryIIToolStripMenuItem
             // 
             this.autoFlurryIIToolStripMenuItem.Name = "autoFlurryIIToolStripMenuItem";
-            this.autoFlurryIIToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoFlurryIIToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoFlurryIIToolStripMenuItem.Text = "Auto Flurry II";
             this.autoFlurryIIToolStripMenuItem.ToolTipText = "Auto Flurry II (Default 3 minutes)";
             this.autoFlurryIIToolStripMenuItem.Click += new System.EventHandler(this.autoFlurryIIToolStripMenuItem_Click);
@@ -896,38 +897,38 @@ namespace CurePlease
             // autoShellToolStripMenuItem
             // 
             this.autoShellToolStripMenuItem.Name = "autoShellToolStripMenuItem";
-            this.autoShellToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoShellToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoShellToolStripMenuItem.Text = "Auto Shell";
             this.autoShellToolStripMenuItem.Click += new System.EventHandler(this.autoShellToolStripMenuItem_Click);
             // 
             // autoProtectToolStripMenuItem
             // 
             this.autoProtectToolStripMenuItem.Name = "autoProtectToolStripMenuItem";
-            this.autoProtectToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.autoProtectToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.autoProtectToolStripMenuItem.Text = "Auto Protect";
             this.autoProtectToolStripMenuItem.Click += new System.EventHandler(this.autoProtectToolStripMenuItem_Click);
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(222, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(267, 6);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(222, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(267, 6);
             // 
             // enableDebuffRemovalToolStripMenuItem
             // 
             this.enableDebuffRemovalToolStripMenuItem.Name = "enableDebuffRemovalToolStripMenuItem";
-            this.enableDebuffRemovalToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
+            this.enableDebuffRemovalToolStripMenuItem.Size = new System.Drawing.Size(270, 24);
             this.enableDebuffRemovalToolStripMenuItem.Text = "Enable Debuff Removal";
             this.enableDebuffRemovalToolStripMenuItem.Click += new System.EventHandler(this.enableDebuffRemovalToolStripMenuItem_Click);
             // 
             // toolStripSeperator13
             // 
             this.toolStripSeperator13.Name = "toolStripSeperator13";
-            this.toolStripSeperator13.Size = new System.Drawing.Size(222, 6);
+            this.toolStripSeperator13.Size = new System.Drawing.Size(267, 6);
             // 
             // stormspellToolStripMenuItem
             // 
@@ -1123,7 +1124,7 @@ namespace CurePlease
             this.POLID.Location = new System.Drawing.Point(178, 11);
             this.POLID.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.POLID.Name = "POLID";
-            this.POLID.Size = new System.Drawing.Size(117, 21);
+            this.POLID.Size = new System.Drawing.Size(117, 25);
             this.POLID.TabIndex = 3;
             // 
             // plLabel
@@ -1134,7 +1135,7 @@ namespace CurePlease
             this.plLabel.Location = new System.Drawing.Point(5, 16);
             this.plLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.plLabel.Name = "plLabel";
-            this.plLabel.Size = new System.Drawing.Size(119, 13);
+            this.plLabel.Size = new System.Drawing.Size(149, 17);
             this.plLabel.TabIndex = 5;
             this.plLabel.Text = "Selected PL: NONE";
             // 
@@ -1220,7 +1221,7 @@ namespace CurePlease
             this.player17priority.Location = new System.Drawing.Point(29, 192);
             this.player17priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player17priority.Name = "player17priority";
-            this.player17priority.Size = new System.Drawing.Size(15, 14);
+            this.player17priority.Size = new System.Drawing.Size(18, 17);
             this.player17priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player17priority, "Check to Enable Player Priority");
             this.player17priority.UseVisualStyleBackColor = true;
@@ -1238,7 +1239,7 @@ namespace CurePlease
             this.player17enabled.Location = new System.Drawing.Point(7, 192);
             this.player17enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player17enabled.Name = "player17enabled";
-            this.player17enabled.Size = new System.Drawing.Size(15, 14);
+            this.player17enabled.Size = new System.Drawing.Size(18, 17);
             this.player17enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player17enabled, "Check to enable actions on this player.");
             this.player17enabled.UseVisualStyleBackColor = true;
@@ -1281,7 +1282,7 @@ namespace CurePlease
             this.player16priority.Location = new System.Drawing.Point(29, 156);
             this.player16priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player16priority.Name = "player16priority";
-            this.player16priority.Size = new System.Drawing.Size(15, 14);
+            this.player16priority.Size = new System.Drawing.Size(18, 17);
             this.player16priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player16priority, "Check to Enable Player Priority");
             this.player16priority.UseVisualStyleBackColor = true;
@@ -1299,7 +1300,7 @@ namespace CurePlease
             this.player16enabled.Location = new System.Drawing.Point(7, 156);
             this.player16enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player16enabled.Name = "player16enabled";
-            this.player16enabled.Size = new System.Drawing.Size(15, 14);
+            this.player16enabled.Size = new System.Drawing.Size(18, 17);
             this.player16enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player16enabled, "Check to enable actions on this player.");
             this.player16enabled.UseVisualStyleBackColor = true;
@@ -1328,7 +1329,7 @@ namespace CurePlease
             this.player15priority.Location = new System.Drawing.Point(29, 120);
             this.player15priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player15priority.Name = "player15priority";
-            this.player15priority.Size = new System.Drawing.Size(15, 14);
+            this.player15priority.Size = new System.Drawing.Size(18, 17);
             this.player15priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player15priority, "Check to Enable Player Priority");
             this.player15priority.UseVisualStyleBackColor = true;
@@ -1339,7 +1340,7 @@ namespace CurePlease
             this.player15enabled.Location = new System.Drawing.Point(7, 120);
             this.player15enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player15enabled.Name = "player15enabled";
-            this.player15enabled.Size = new System.Drawing.Size(15, 14);
+            this.player15enabled.Size = new System.Drawing.Size(18, 17);
             this.player15enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player15enabled, "Check to enable actions on this player.");
             this.player15enabled.UseVisualStyleBackColor = true;
@@ -1368,7 +1369,7 @@ namespace CurePlease
             this.player14priority.Location = new System.Drawing.Point(29, 84);
             this.player14priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player14priority.Name = "player14priority";
-            this.player14priority.Size = new System.Drawing.Size(15, 14);
+            this.player14priority.Size = new System.Drawing.Size(18, 17);
             this.player14priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player14priority, "Check to Enable Player Priority");
             this.player14priority.UseVisualStyleBackColor = true;
@@ -1379,7 +1380,7 @@ namespace CurePlease
             this.player14enabled.Location = new System.Drawing.Point(7, 84);
             this.player14enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player14enabled.Name = "player14enabled";
-            this.player14enabled.Size = new System.Drawing.Size(15, 14);
+            this.player14enabled.Size = new System.Drawing.Size(18, 17);
             this.player14enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player14enabled, "Check to enable actions on this player.");
             this.player14enabled.UseVisualStyleBackColor = true;
@@ -1408,7 +1409,7 @@ namespace CurePlease
             this.player13priority.Location = new System.Drawing.Point(29, 49);
             this.player13priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player13priority.Name = "player13priority";
-            this.player13priority.Size = new System.Drawing.Size(15, 14);
+            this.player13priority.Size = new System.Drawing.Size(18, 17);
             this.player13priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player13priority, "Check to Enable Player Priority");
             this.player13priority.UseVisualStyleBackColor = true;
@@ -1437,7 +1438,7 @@ namespace CurePlease
             this.player13enabled.Location = new System.Drawing.Point(7, 49);
             this.player13enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player13enabled.Name = "player13enabled";
-            this.player13enabled.Size = new System.Drawing.Size(15, 14);
+            this.player13enabled.Size = new System.Drawing.Size(18, 17);
             this.player13enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player13enabled, "Check to enable actions on this player.");
             this.player13enabled.UseVisualStyleBackColor = true;
@@ -1448,7 +1449,7 @@ namespace CurePlease
             this.player12priority.Location = new System.Drawing.Point(29, 14);
             this.player12priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player12priority.Name = "player12priority";
-            this.player12priority.Size = new System.Drawing.Size(15, 14);
+            this.player12priority.Size = new System.Drawing.Size(18, 17);
             this.player12priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player12priority, "Check to Enable Player Priority");
             this.player12priority.UseVisualStyleBackColor = true;
@@ -1459,7 +1460,7 @@ namespace CurePlease
             this.player12enabled.Location = new System.Drawing.Point(7, 14);
             this.player12enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player12enabled.Name = "player12enabled";
-            this.player12enabled.Size = new System.Drawing.Size(15, 14);
+            this.player12enabled.Size = new System.Drawing.Size(18, 17);
             this.player12enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player12enabled, "Check to enable actions on this player.");
             this.player12enabled.UseVisualStyleBackColor = true;
@@ -1472,7 +1473,7 @@ namespace CurePlease
             this.player17.Location = new System.Drawing.Point(48, 192);
             this.player17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player17.Name = "player17";
-            this.player17.Size = new System.Drawing.Size(45, 13);
+            this.player17.Size = new System.Drawing.Size(56, 17);
             this.player17.TabIndex = 1;
             this.player17.Text = "Inactive";
             // 
@@ -1484,7 +1485,7 @@ namespace CurePlease
             this.player16.Location = new System.Drawing.Point(46, 156);
             this.player16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player16.Name = "player16";
-            this.player16.Size = new System.Drawing.Size(45, 13);
+            this.player16.Size = new System.Drawing.Size(56, 17);
             this.player16.TabIndex = 1;
             this.player16.Text = "Inactive";
             // 
@@ -1496,7 +1497,7 @@ namespace CurePlease
             this.player15.Location = new System.Drawing.Point(46, 120);
             this.player15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player15.Name = "player15";
-            this.player15.Size = new System.Drawing.Size(45, 13);
+            this.player15.Size = new System.Drawing.Size(56, 17);
             this.player15.TabIndex = 1;
             this.player15.Text = "Inactive";
             // 
@@ -1508,7 +1509,7 @@ namespace CurePlease
             this.player14.Location = new System.Drawing.Point(46, 84);
             this.player14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player14.Name = "player14";
-            this.player14.Size = new System.Drawing.Size(45, 13);
+            this.player14.Size = new System.Drawing.Size(56, 17);
             this.player14.TabIndex = 1;
             this.player14.Text = "Inactive";
             // 
@@ -1520,7 +1521,7 @@ namespace CurePlease
             this.player13.Location = new System.Drawing.Point(46, 49);
             this.player13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player13.Name = "player13";
-            this.player13.Size = new System.Drawing.Size(45, 13);
+            this.player13.Size = new System.Drawing.Size(56, 17);
             this.player13.TabIndex = 1;
             this.player13.Text = "Inactive";
             // 
@@ -1532,7 +1533,7 @@ namespace CurePlease
             this.player12.Location = new System.Drawing.Point(46, 14);
             this.player12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player12.Name = "player12";
-            this.player12.Size = new System.Drawing.Size(45, 13);
+            this.player12.Size = new System.Drawing.Size(56, 17);
             this.player12.TabIndex = 1;
             this.player12.Text = "Inactive";
             // 
@@ -1555,7 +1556,7 @@ namespace CurePlease
             this.player6.Location = new System.Drawing.Point(46, 14);
             this.player6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player6.Name = "player6";
-            this.player6.Size = new System.Drawing.Size(45, 13);
+            this.player6.Size = new System.Drawing.Size(56, 17);
             this.player6.TabIndex = 1;
             this.player6.Text = "Inactive";
             // 
@@ -1567,7 +1568,7 @@ namespace CurePlease
             this.player7.Location = new System.Drawing.Point(46, 49);
             this.player7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player7.Name = "player7";
-            this.player7.Size = new System.Drawing.Size(45, 13);
+            this.player7.Size = new System.Drawing.Size(56, 17);
             this.player7.TabIndex = 1;
             this.player7.Text = "Inactive";
             // 
@@ -1579,7 +1580,7 @@ namespace CurePlease
             this.player8.Location = new System.Drawing.Point(46, 84);
             this.player8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player8.Name = "player8";
-            this.player8.Size = new System.Drawing.Size(45, 13);
+            this.player8.Size = new System.Drawing.Size(56, 17);
             this.player8.TabIndex = 1;
             this.player8.Text = "Inactive";
             // 
@@ -1591,7 +1592,7 @@ namespace CurePlease
             this.player9.Location = new System.Drawing.Point(46, 120);
             this.player9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player9.Name = "player9";
-            this.player9.Size = new System.Drawing.Size(45, 13);
+            this.player9.Size = new System.Drawing.Size(56, 17);
             this.player9.TabIndex = 1;
             this.player9.Text = "Inactive";
             // 
@@ -1603,7 +1604,7 @@ namespace CurePlease
             this.player10.Location = new System.Drawing.Point(46, 156);
             this.player10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player10.Name = "player10";
-            this.player10.Size = new System.Drawing.Size(45, 13);
+            this.player10.Size = new System.Drawing.Size(56, 17);
             this.player10.TabIndex = 1;
             this.player10.Text = "Inactive";
             // 
@@ -1615,7 +1616,7 @@ namespace CurePlease
             this.player11.Location = new System.Drawing.Point(46, 192);
             this.player11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.player11.Name = "player11";
-            this.player11.Size = new System.Drawing.Size(45, 13);
+            this.player11.Size = new System.Drawing.Size(56, 17);
             this.player11.TabIndex = 1;
             this.player11.Text = "Inactive";
             // 
@@ -1625,7 +1626,7 @@ namespace CurePlease
             this.player6enabled.Location = new System.Drawing.Point(7, 14);
             this.player6enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player6enabled.Name = "player6enabled";
-            this.player6enabled.Size = new System.Drawing.Size(15, 14);
+            this.player6enabled.Size = new System.Drawing.Size(18, 17);
             this.player6enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player6enabled, "Check to enable actions on this player.");
             this.player6enabled.UseVisualStyleBackColor = true;
@@ -1636,7 +1637,7 @@ namespace CurePlease
             this.player7enabled.Location = new System.Drawing.Point(7, 49);
             this.player7enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player7enabled.Name = "player7enabled";
-            this.player7enabled.Size = new System.Drawing.Size(15, 14);
+            this.player7enabled.Size = new System.Drawing.Size(18, 17);
             this.player7enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player7enabled, "Check to enable actions on this player.");
             this.player7enabled.UseVisualStyleBackColor = true;
@@ -1647,7 +1648,7 @@ namespace CurePlease
             this.player8enabled.Location = new System.Drawing.Point(7, 84);
             this.player8enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player8enabled.Name = "player8enabled";
-            this.player8enabled.Size = new System.Drawing.Size(15, 14);
+            this.player8enabled.Size = new System.Drawing.Size(18, 17);
             this.player8enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player8enabled, "Check to enable actions on this player.");
             this.player8enabled.UseVisualStyleBackColor = true;
@@ -1658,7 +1659,7 @@ namespace CurePlease
             this.player9enabled.Location = new System.Drawing.Point(7, 120);
             this.player9enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player9enabled.Name = "player9enabled";
-            this.player9enabled.Size = new System.Drawing.Size(15, 14);
+            this.player9enabled.Size = new System.Drawing.Size(18, 17);
             this.player9enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player9enabled, "Check to enable actions on this player.");
             this.player9enabled.UseVisualStyleBackColor = true;
@@ -1669,7 +1670,7 @@ namespace CurePlease
             this.player10enabled.Location = new System.Drawing.Point(7, 156);
             this.player10enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player10enabled.Name = "player10enabled";
-            this.player10enabled.Size = new System.Drawing.Size(15, 14);
+            this.player10enabled.Size = new System.Drawing.Size(18, 17);
             this.player10enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player10enabled, "Check to enable actions on this player.");
             this.player10enabled.UseVisualStyleBackColor = true;
@@ -1680,7 +1681,7 @@ namespace CurePlease
             this.player11enabled.Location = new System.Drawing.Point(8, 192);
             this.player11enabled.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player11enabled.Name = "player11enabled";
-            this.player11enabled.Size = new System.Drawing.Size(15, 14);
+            this.player11enabled.Size = new System.Drawing.Size(18, 17);
             this.player11enabled.TabIndex = 2;
             this.toolTips.SetToolTip(this.player11enabled, "Check to enable actions on this player.");
             this.player11enabled.UseVisualStyleBackColor = true;
@@ -1767,7 +1768,7 @@ namespace CurePlease
             this.player11priority.Location = new System.Drawing.Point(29, 192);
             this.player11priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player11priority.Name = "player11priority";
-            this.player11priority.Size = new System.Drawing.Size(15, 14);
+            this.player11priority.Size = new System.Drawing.Size(18, 17);
             this.player11priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player11priority, "Check to Enable Player Priority");
             this.player11priority.UseVisualStyleBackColor = true;
@@ -1842,7 +1843,7 @@ namespace CurePlease
             this.player10priority.Location = new System.Drawing.Point(29, 156);
             this.player10priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player10priority.Name = "player10priority";
-            this.player10priority.Size = new System.Drawing.Size(15, 14);
+            this.player10priority.Size = new System.Drawing.Size(18, 17);
             this.player10priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player10priority, "Check to Enable Player Priority");
             this.player10priority.UseVisualStyleBackColor = true;
@@ -1889,7 +1890,7 @@ namespace CurePlease
             this.player9priority.Location = new System.Drawing.Point(29, 120);
             this.player9priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player9priority.Name = "player9priority";
-            this.player9priority.Size = new System.Drawing.Size(15, 14);
+            this.player9priority.Size = new System.Drawing.Size(18, 17);
             this.player9priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player9priority, "Check to Enable Player Priority");
             this.player9priority.UseVisualStyleBackColor = true;
@@ -1918,7 +1919,7 @@ namespace CurePlease
             this.player8priority.Location = new System.Drawing.Point(29, 84);
             this.player8priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player8priority.Name = "player8priority";
-            this.player8priority.Size = new System.Drawing.Size(15, 14);
+            this.player8priority.Size = new System.Drawing.Size(18, 17);
             this.player8priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player8priority, "Check to Enable Player Priority");
             this.player8priority.UseVisualStyleBackColor = true;
@@ -1929,7 +1930,7 @@ namespace CurePlease
             this.player7priority.Location = new System.Drawing.Point(29, 49);
             this.player7priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player7priority.Name = "player7priority";
-            this.player7priority.Size = new System.Drawing.Size(15, 14);
+            this.player7priority.Size = new System.Drawing.Size(18, 17);
             this.player7priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player7priority, "Check to Enable Player Priority");
             this.player7priority.UseVisualStyleBackColor = true;
@@ -1940,7 +1941,7 @@ namespace CurePlease
             this.player6priority.Location = new System.Drawing.Point(29, 14);
             this.player6priority.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.player6priority.Name = "player6priority";
-            this.player6priority.Size = new System.Drawing.Size(15, 14);
+            this.player6priority.Size = new System.Drawing.Size(18, 17);
             this.player6priority.TabIndex = 2;
             this.toolTips.SetToolTip(this.player6priority, "Check to Enable Player Priority");
             this.player6priority.UseVisualStyleBackColor = true;
@@ -1952,7 +1953,7 @@ namespace CurePlease
             this.POLID2.Location = new System.Drawing.Point(178, 36);
             this.POLID2.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.POLID2.Name = "POLID2";
-            this.POLID2.Size = new System.Drawing.Size(117, 21);
+            this.POLID2.Size = new System.Drawing.Size(117, 25);
             this.POLID2.TabIndex = 3;
             // 
             // setinstance2
@@ -1980,7 +1981,7 @@ namespace CurePlease
             this.monitoredLabel.Location = new System.Drawing.Point(4, 38);
             this.monitoredLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.monitoredLabel.Name = "monitoredLabel";
-            this.monitoredLabel.Size = new System.Drawing.Size(145, 13);
+            this.monitoredLabel.Size = new System.Drawing.Size(185, 17);
             this.monitoredLabel.TabIndex = 5;
             this.monitoredLabel.Text = "Monitored Player: NONE";
             // 
@@ -2018,7 +2019,7 @@ namespace CurePlease
             this.checkBox1.ForeColor = System.Drawing.SystemColors.MenuText;
             this.checkBox1.Location = new System.Drawing.Point(11, 13);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(96, 17);
+            this.checkBox1.Size = new System.Drawing.Size(122, 21);
             this.checkBox1.TabIndex = 14;
             this.checkBox1.Text = "Always on Top";
             this.toolTips.SetToolTip(this.checkBox1, "Always on Top");
@@ -2041,6 +2042,7 @@ namespace CurePlease
             // 
             // autoOptions
             // 
+            this.autoOptions.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.autoOptions.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.autoPhalanxIIToolStripMenuItem1,
             this.autoRegenVToolStripMenuItem,
@@ -2055,87 +2057,87 @@ namespace CurePlease
             this.ThunderstormToolStripMenuItem,
             this.HailstormToolStripMenuItem});
             this.autoOptions.Name = "proshellOptions";
-            this.autoOptions.Size = new System.Drawing.Size(179, 252);
+            this.autoOptions.Size = new System.Drawing.Size(207, 274);
             // 
             // autoPhalanxIIToolStripMenuItem1
             // 
             this.autoPhalanxIIToolStripMenuItem1.Name = "autoPhalanxIIToolStripMenuItem1";
-            this.autoPhalanxIIToolStripMenuItem1.Size = new System.Drawing.Size(178, 22);
+            this.autoPhalanxIIToolStripMenuItem1.Size = new System.Drawing.Size(206, 24);
             this.autoPhalanxIIToolStripMenuItem1.Text = "Auto Phalanx II";
             this.autoPhalanxIIToolStripMenuItem1.Click += new System.EventHandler(this.autoPhalanxIIToolStripMenuItem1_Click);
             // 
             // autoRegenVToolStripMenuItem
             // 
             this.autoRegenVToolStripMenuItem.Name = "autoRegenVToolStripMenuItem";
-            this.autoRegenVToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.autoRegenVToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.autoRegenVToolStripMenuItem.Text = "Auto Regen";
             this.autoRegenVToolStripMenuItem.Click += new System.EventHandler(this.autoRegenVToolStripMenuItem_Click);
             // 
             // autoRefreshIIToolStripMenuItem
             // 
             this.autoRefreshIIToolStripMenuItem.Name = "autoRefreshIIToolStripMenuItem";
-            this.autoRefreshIIToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.autoRefreshIIToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.autoRefreshIIToolStripMenuItem.Text = "Auto Refresh";
             this.autoRefreshIIToolStripMenuItem.Click += new System.EventHandler(this.autoRefreshIIToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(175, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(203, 6);
             // 
             // SandstormToolStripMenuItem
             // 
             this.SandstormToolStripMenuItem.Name = "SandstormToolStripMenuItem";
-            this.SandstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.SandstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.SandstormToolStripMenuItem.Text = "Auto Sandstorm";
             this.SandstormToolStripMenuItem.Click += new System.EventHandler(this.SandstormToolStripMenuItem_Click);
             // 
             // RainstormToolStripMenuItem
             // 
             this.RainstormToolStripMenuItem.Name = "RainstormToolStripMenuItem";
-            this.RainstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.RainstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.RainstormToolStripMenuItem.Text = "Auto Rainstorm";
             this.RainstormToolStripMenuItem.Click += new System.EventHandler(this.RainstormToolStripMenuItem_Click);
             // 
             // WindstormToolStripMenuItem
             // 
             this.WindstormToolStripMenuItem.Name = "WindstormToolStripMenuItem";
-            this.WindstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.WindstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.WindstormToolStripMenuItem.Text = "Auto Windstorm";
             this.WindstormToolStripMenuItem.Click += new System.EventHandler(this.WindstormToolStripMenuItem_Click);
             // 
             // FirestormToolStripMenuItem
             // 
             this.FirestormToolStripMenuItem.Name = "FirestormToolStripMenuItem";
-            this.FirestormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.FirestormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.FirestormToolStripMenuItem.Text = "Auto Firestorm";
             this.FirestormToolStripMenuItem.Click += new System.EventHandler(this.FirestormToolStripMenuItem_Click);
             // 
             // AurorastormToolStripMenuItem
             // 
             this.AurorastormToolStripMenuItem.Name = "AurorastormToolStripMenuItem";
-            this.AurorastormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.AurorastormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.AurorastormToolStripMenuItem.Text = "Auto Aurorastorm";
             this.AurorastormToolStripMenuItem.Click += new System.EventHandler(this.AurorastormToolStripMenuItem_Click);
             // 
             // VoidstormToolStripMenuItem
             // 
             this.VoidstormToolStripMenuItem.Name = "VoidstormToolStripMenuItem";
-            this.VoidstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.VoidstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.VoidstormToolStripMenuItem.Text = "Auto Voidstorm";
             this.VoidstormToolStripMenuItem.Click += new System.EventHandler(this.VoidstormToolStripMenuItem_Click);
             // 
             // ThunderstormToolStripMenuItem
             // 
             this.ThunderstormToolStripMenuItem.Name = "ThunderstormToolStripMenuItem";
-            this.ThunderstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.ThunderstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.ThunderstormToolStripMenuItem.Text = "Auto Thunderstorm";
             this.ThunderstormToolStripMenuItem.Click += new System.EventHandler(this.ThunderstormToolStripMenuItem_Click);
             // 
             // HailstormToolStripMenuItem
             // 
             this.HailstormToolStripMenuItem.Name = "HailstormToolStripMenuItem";
-            this.HailstormToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.HailstormToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.HailstormToolStripMenuItem.Text = "Auto Hailstorm";
             this.HailstormToolStripMenuItem.Click += new System.EventHandler(this.HailstormToolStripMenuItem_Click);
             // 
@@ -2200,7 +2202,7 @@ namespace CurePlease
             this.debugging_MSGBOX.AutoSize = true;
             this.debugging_MSGBOX.Location = new System.Drawing.Point(641, 5);
             this.debugging_MSGBOX.Name = "debugging_MSGBOX";
-            this.debugging_MSGBOX.Size = new System.Drawing.Size(0, 13);
+            this.debugging_MSGBOX.Size = new System.Drawing.Size(0, 17);
             this.debugging_MSGBOX.TabIndex = 22;
             // 
             // resetSongTimer
@@ -2250,7 +2252,7 @@ namespace CurePlease
             this.currentAction.ForeColor = System.Drawing.Color.Black;
             this.currentAction.Location = new System.Drawing.Point(7, 14);
             this.currentAction.Name = "currentAction";
-            this.currentAction.Size = new System.Drawing.Size(103, 13);
+            this.currentAction.Size = new System.Drawing.Size(130, 17);
             this.currentAction.TabIndex = 0;
             this.currentAction.Text = "CURRENT ACTION";
             // 
@@ -2271,7 +2273,7 @@ namespace CurePlease
             this.castingLockLabel.AutoSize = true;
             this.castingLockLabel.Location = new System.Drawing.Point(79, 16);
             this.castingLockLabel.Name = "castingLockLabel";
-            this.castingLockLabel.Size = new System.Drawing.Size(0, 13);
+            this.castingLockLabel.Size = new System.Drawing.Size(0, 17);
             this.castingLockLabel.TabIndex = 28;
             // 
             // Follow_BGW
@@ -2289,7 +2291,7 @@ namespace CurePlease
             this.OptionsButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OptionsButton.Location = new System.Drawing.Point(376, 8);
             this.OptionsButton.Name = "OptionsButton";
-            this.OptionsButton.Size = new System.Drawing.Size(61, 27);
+            this.OptionsButton.Size = new System.Drawing.Size(72, 30);
             this.OptionsButton.TabIndex = 29;
             this.OptionsButton.Text = "Options";
             this.OptionsButton.UseVisualStyleBackColor = false;
@@ -2305,7 +2307,7 @@ namespace CurePlease
             this.ChatLogButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ChatLogButton.Location = new System.Drawing.Point(443, 8);
             this.ChatLogButton.Name = "ChatLogButton";
-            this.ChatLogButton.Size = new System.Drawing.Size(68, 27);
+            this.ChatLogButton.Size = new System.Drawing.Size(80, 30);
             this.ChatLogButton.TabIndex = 30;
             this.ChatLogButton.Text = "Chat Log";
             this.ChatLogButton.UseVisualStyleBackColor = false;
@@ -2321,7 +2323,7 @@ namespace CurePlease
             this.PartyBuffsButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PartyBuffsButton.Location = new System.Drawing.Point(517, 8);
             this.PartyBuffsButton.Name = "PartyBuffsButton";
-            this.PartyBuffsButton.Size = new System.Drawing.Size(76, 27);
+            this.PartyBuffsButton.Size = new System.Drawing.Size(92, 30);
             this.PartyBuffsButton.TabIndex = 31;
             this.PartyBuffsButton.Text = "Party Buffs";
             this.PartyBuffsButton.UseVisualStyleBackColor = false;
@@ -2337,7 +2339,7 @@ namespace CurePlease
             this.AboutButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AboutButton.Location = new System.Drawing.Point(599, 8);
             this.AboutButton.Name = "AboutButton";
-            this.AboutButton.Size = new System.Drawing.Size(50, 27);
+            this.AboutButton.Size = new System.Drawing.Size(58, 30);
             this.AboutButton.TabIndex = 32;
             this.AboutButton.Text = "About";
             this.AboutButton.UseVisualStyleBackColor = false;
@@ -2389,11 +2391,11 @@ namespace CurePlease
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.ClientSize = new System.Drawing.Size(664, 382);
+            this.ClientSize = new System.Drawing.Size(657, 372);
             this.Controls.Add(this.AddOnStatus);
             this.Controls.Add(this.AboutButton);
             this.Controls.Add(this.PartyBuffsButton);

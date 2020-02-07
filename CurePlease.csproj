@@ -114,11 +114,23 @@
       <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
     <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="GUI\TestWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TestWindow.Designer.cs">
+      <DependentUpon>TestWindow.cs</DependentUpon>
+    </Compile>
     <Compile Include="PartyBuffs.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="PartyBuffs.Designer.cs">
       <DependentUpon>PartyBuffs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PlayerInfoUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PlayerInfoUserControl.Designer.cs">
+      <DependentUpon>PlayerInfoUserControl.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="ProgressBar.cs">
@@ -139,8 +151,14 @@
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TestWindow.resx">
+      <DependentUpon>TestWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PartyBuffs.resx">
       <DependentUpon>PartyBuffs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PlayerInfoUserControl.resx">
+      <DependentUpon>PlayerInfoUserControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

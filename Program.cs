@@ -1,4 +1,6 @@
-﻿namespace CurePlease
+﻿using CurePlease.GUI;
+
+namespace CurePlease
 {
     using System;
     using System.Windows.Forms;
@@ -13,7 +15,7 @@
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TestWindow());
         }
     }
 }
